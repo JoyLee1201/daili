@@ -76,21 +76,21 @@
   position:absolute;
   left:25px;
   top:895px;
-  width:775px;
+  width:1105px;
   height:244px;
 }
 #u5_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:171px;
   height:40px;
 }
 #u5 {
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:171px;
   height:40px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
@@ -101,21 +101,21 @@
   position:absolute;
   left:2px;
   top:9px;
-  width:116px;
+  width:167px;
   word-wrap:break-word;
 }
 #u7_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:188px;
+  width:269px;
   height:40px;
 }
 #u7 {
   position:absolute;
-  left:120px;
+  left:171px;
   top:0px;
-  width:188px;
+  width:269px;
   height:40px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
@@ -126,21 +126,21 @@
   position:absolute;
   left:2px;
   top:9px;
-  width:184px;
+  width:265px;
   word-wrap:break-word;
 }
 #u9_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:462px;
+  width:660px;
   height:40px;
 }
 #u9 {
   position:absolute;
-  left:308px;
+  left:440px;
   top:0px;
-  width:462px;
+  width:660px;
   height:40px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
@@ -151,21 +151,21 @@
   position:absolute;
   left:2px;
   top:9px;
-  width:458px;
+  width:656px;
   word-wrap:break-word;
 }
 #u11_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:120px;
+  width:171px;
   height:199px;
 }
 #u11 {
   position:absolute;
   left:0px;
   top:40px;
-  width:120px;
+  width:171px;
   height:199px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -176,21 +176,21 @@
   position:absolute;
   left:2px;
   top:90px;
-  width:116px;
+  width:167px;
   word-wrap:break-word;
 }
 #u13_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:188px;
+  width:269px;
   height:199px;
 }
 #u13 {
   position:absolute;
-  left:120px;
+  left:171px;
   top:40px;
-  width:188px;
+  width:269px;
   height:199px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -201,29 +201,29 @@
   position:absolute;
   left:2px;
   top:90px;
-  width:184px;
+  width:265px;
   word-wrap:break-word;
 }
 #u15_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:462px;
+  width:660px;
   height:199px;
 }
 #u15 {
   position:absolute;
-  left:308px;
+  left:440px;
   top:40px;
-  width:462px;
+  width:660px;
   height:199px;
   text-align:left;
 }
 #u16 {
   position:absolute;
   left:2px;
-  top:46px;
-  width:458px;
+  top:54px;
+  width:656px;
   word-wrap:break-word;
 }
 #u17 {
